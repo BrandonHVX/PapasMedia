@@ -88,7 +88,10 @@ class NavBar extends Component {
                   <div className="col-lg-8">
                     {/* top bar right */}
                     <div className="top-bar-right-wrapper">
-                      <a className="ht-btn ht-btn--default d-inline-block">
+                      <a
+                        href="#"
+                        className="ht-btn ht-btn--default d-inline-block"
+                      >
                         GET A QUOTE
                       </a>
                     </div>

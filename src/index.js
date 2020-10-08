@@ -3,7 +3,7 @@ import "react-app-polyfill/stable";
 import React, { Component } from "react";
 import ReactDOM from "react-dom";
 import "./index.scss";
-import DemoIndex from "./demo_page/Demo";
+
 import HomeOne from "./HomeOne";
 import HomeTwo from "./HomeTwo";
 import HomeThree from "./HomeThree";
@@ -38,11 +38,7 @@ class Root extends Component {
             path={`${process.env.PUBLIC_URL}/home-one`}
             component={HomeOne}
           />
-          <Route
-            exact
-            path={`${process.env.PUBLIC_URL}/home-two`}
-            component={HomeTwo}
-          />
+
           <Route
             exact
             path={`${process.env.PUBLIC_URL}/home-three`}

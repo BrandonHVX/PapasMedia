@@ -5,9 +5,7 @@ import VideoCta from "./components/VideoCta";
 import ProjectSlider from "./components/ProjectSlider";
 import ServiceTab from "./components/ServiceTab";
 import TestimonialSlider from "./components/TestimonialSlider";
-import TeamJob from "./components/TeamJob";
-import BlogGrid from "./components/BlogGrid";
-import BrandLogoSlider from "./components/BrandLogoSlider";
+
 import Footer from "./components/Footer";
 import MobileMenu from "./components/MobileMenu";
 
