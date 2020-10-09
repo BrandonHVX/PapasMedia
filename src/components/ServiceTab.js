@@ -69,7 +69,7 @@ class ServiceTabExample extends Component {
               >
                 SEE MORE
               </a> */}
-              <a href="#" className="see-more-link">
+              <a href="//facebook.com" className="see-more-link">
                 SEE MORE
               </a>
             </div>

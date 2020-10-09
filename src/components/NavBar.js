@@ -89,7 +89,7 @@ class NavBar extends Component {
                     {/* top bar right */}
                     <div className="top-bar-right-wrapper">
                       <a
-                        href="#"
+                        href="//facebook.com"
                         className="ht-btn ht-btn--default d-inline-block"
                       >
                         GET A QUOTE
